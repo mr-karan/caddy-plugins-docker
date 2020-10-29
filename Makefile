@@ -1,5 +1,5 @@
 IMAGE_NAME := mrkaran/caddy
-CURRENT_BUILD_TAG := 2.1.1
+CURRENT_BUILD_TAG := 2.2.1
 LATEST_TAG:= latest
 
 build:
