@@ -4,7 +4,7 @@ A custom build of [Caddy](https://caddyserver.com/) with plugins.
 
 ## Using the image
 
-`docker pull ghcr.io/karan/mr-karan/caddy:latest`
+`docker pull ghcr.io/mr-karan/caddy:2.6.4`
 
 See the rest of instructions [here](https://registry.hub.docker.com/_/caddy).
 
