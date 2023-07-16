@@ -25,7 +25,7 @@ jobs:
           context: .
           push: true
           build-args: |
-            CADDY_VERSION=2.3.0
+            CADDY_VERSION=2.6.4
           tags: |
             ghcr.io/mr-karan/caddy:latest
-            ghcr.io/mr-karan/caddy:2.3.0
+            ghcr.io/mr-karan/caddy:2.6.4
