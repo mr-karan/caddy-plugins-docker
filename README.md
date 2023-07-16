@@ -1,10 +1,10 @@
 # caddy-plugins-docker
 
-[Docker Hub](https://hub.docker.com/r/mrkaran/caddy)
+A custom build of [Caddy](https://caddyserver.com/) with plugins.
 
 ## Using the image
 
-`docker pull mrkaran/caddy:latest`
+`docker pull ghcr.io/karan/mr-karan/caddy:latest`
 
 See the rest of instructions [here](https://registry.hub.docker.com/_/caddy).
 
