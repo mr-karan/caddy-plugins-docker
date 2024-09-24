@@ -1,5 +1,5 @@
 # Use a build argument to allow the Caddy version to be changed
-ARG CADDY_VERSION=2.6.4
+ARG CADDY_VERSION=2.8.4
 
 # Build Caddy with the necessary plugins
 FROM caddy:${CADDY_VERSION}-builder AS builder
